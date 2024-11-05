@@ -39,7 +39,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ## ⚡ Hobbies
 
-My biggest hobby is playing trading card games, most notably yu-gi-oh but I also play magic the gathering here and there.
+My biggest hobby outside of computer science is playing trading card games, most notably yu-gi-oh but I also play magic the gathering here and there.
 
 ---
 
