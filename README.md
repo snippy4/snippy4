@@ -4,7 +4,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white)
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ---
 
-## 🛠 Current Projects
+## 🛠 Current Focuses
 
 - I’m currently focused on **Parallel programming and HPC**
 - I'm currently studying my masters in **Computer Science at University of Liverpool**
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ---
 
-## 📫 Get in Touch
+## 📫 Where to find me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thomas-parsons-6b6964225/)
 - Website: [Website](https://thomascparsons.tech/)
