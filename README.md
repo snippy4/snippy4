@@ -9,8 +9,8 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/-React-00ADD8?style=flat-square&logo=react&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 <!-- Add or remove badges based on your skills -->
 
@@ -25,14 +25,13 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy4&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/thomas-parsons-6b6964225/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thomas-parsons-6b6964225/)
 - Website: [Website](https://thomascparsons.tech/)
 - Email: [Email](mailto:thomascparsons@gmail.com)
 
