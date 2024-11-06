@@ -16,20 +16,20 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ---
 
-## 🛠 Current Focuses
+##  Current Focuses
 
 - I’m currently focused on **Parallel programming and HPC**
 - I'm currently studying my masters in **Computer Science at University of Liverpool**
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy4&layout=compact&theme=radical)
 
 ---
 
-## 📫 Where to find me
+##  Where to find me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thomas-parsons-6b6964225/)
 - Website: [Website](https://thomascparsons.tech/)
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ---
 
-## ⚡ Hobbies
+##  Hobbies
 
 My biggest hobby outside of computer science is playing trading card games, most notably yu-gi-oh (my profile picture is from the UK national championship 2024) but I also play magic the gathering here and there.
 
