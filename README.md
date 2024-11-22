@@ -26,6 +26,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 ##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy4&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=snippy4&layout=compact&theme=radical)
 
 ---
 
