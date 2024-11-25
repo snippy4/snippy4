@@ -8,8 +8,8 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-4887BC?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-00ADD8?style=flat-square&logo=react&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 <!-- Add or remove badges based on your skills -->
