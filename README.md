@@ -18,7 +18,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ##  Current Focuses
 
-- I’m currently focused on **Parallel programming, and Concurrency*
+- I’m currently focused on **Parallel programming, and Concurrency**
 - I'm currently studying my masters in **Computer Science at University of Liverpool**
 
 ---
