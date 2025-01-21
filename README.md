@@ -18,7 +18,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ##  Current Focuses
 
-- I’m currently focused on **Parallel programming, and Concurrency**
+- My last project was **[YGOProximity](https://ygoproximity.com/)**
 - I'm currently studying my masters in **Computer Science at University of Liverpool**
 
 ---
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! This is where a mix of my personal projects and in
 
 ##  Hobbies
 
-My biggest hobby outside of computer science is playing trading card games, most notably yu-gi-oh (my profile picture is from the UK national championship 2024) but I also play magic the gathering here and there.
+My biggest hobby outside of computer science is playing trading card games.
 
 ---
 
