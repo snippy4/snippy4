@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Parsons
 
-Welcome to my GitHub profile! This is where a mix of my personal projects and interests are collected.
+Welcome to my GitHub profile! This I publish my personal projects.
 
 ---
 
