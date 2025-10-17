@@ -16,9 +16,7 @@ A software engineer and hobbyist
 
 ---
 
-##  Current Focuses
-
-- I'm currently working as a software engineer at **Amazon**
+I'm currently working as a software engineer at **Amazon**
 
 ---
 
