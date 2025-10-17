@@ -1,6 +1,6 @@
-# Hi, I'm Thomas Parsons
+# Hi, I'm Thomas
 
-Welcome to my GitHub profile! This is where I publish my personal projects.
+A software engineer and hobbyist
 
 ---
 
@@ -18,8 +18,7 @@ Welcome to my GitHub profile! This is where I publish my personal projects.
 
 ##  Current Focuses
 
-- My last project was **[YGOProximity](https://ygoproximity.com/)**
-- I'm currently studying my masters in **Computer Science at University of Liverpool**
+- I'm currently working as a software engineer at **Amazon**
 
 ---
 
@@ -32,7 +31,7 @@ Welcome to my GitHub profile! This is where I publish my personal projects.
 ##  Where to find me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thomas-parsons-6b6964225/)
-- Website: [Website](https://thomascparsons.tech/)
+- Website: [Website](http://thomascparsons.com/)
 - Email: [Email](mailto:thomascparsons@gmail.com)
 
 ---
