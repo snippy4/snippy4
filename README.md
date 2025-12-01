@@ -1,6 +1,5 @@
 # Hi, I'm Thomas
-
-A software engineer and hobbyist
+Software engineer
 
 ---
 
@@ -16,7 +15,7 @@ A software engineer and hobbyist
 
 ---
 
-I'm currently working as a software engineer at **Amazon**
+Currently working as a software engineer at **Amazon**
 
 ---
 
@@ -36,8 +35,8 @@ I'm currently working as a software engineer at **Amazon**
 
 ##  Hobbies
 
-My biggest hobby outside of computer science is playing trading card games.
+I like TCGs a lot
 
 ---
 
-### Thanks for reading
+## Thanks for reading :D
